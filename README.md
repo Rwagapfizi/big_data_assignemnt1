@@ -116,8 +116,17 @@ Power BI enabled intuitive dashboard creation to support these findings with vis
 
 ## File Structure
 
-- assignment.ipynb # Jupyter notebook for cleaning and enhancing dataset, and visualize data
-- Rwagapfizi_Igor_27329.pbix # Power BI Dashboard File
-- uber.csv # Raw uncleaned dataset from Kaggle
-- uber_cleaned.csv # Dataset cleaned from missing and duplicate values
-- uber_enhanced.csv # Final dataset enhanced with analytical features
+- **assignment.ipynb** # *Jupyter notebook for cleaning and enhancing dataset, and visualize data*
+- **Rwagapfizi_Igor_27329.pbix** # *Power BI Dashboard File*
+- **Rwagapfizi_Igor_Big_Data_Project_Report.pdf** # *Project Documentation that contains screenshots of data visuals*
+- **uber.csv** # *Raw uncleaned dataset from Kaggle*
+- **uber_cleaned.csv** # *Dataset cleaned from missing and duplicate values*
+- **uber_enhanced.csv** # *Final dataset enhanced with analytical features*
+
+---
+
+## Author
+
+**Rwagapfizi Igor, 27329**  
+Adventist University of Central Africa – Introduction to Big Data Assignment Project (July 2025)
+
